@@ -1,1 +1,2 @@
-# projeto-simulador-de-piano-
+# Projeto-simulador-de-piano-
+## Fiz a aula junto com o professor da Dio, e aprendi conceitos ,de como manipular o DOM,usar as classes para estilizar as teclas do piano,no javascript como usar o toggle,etc...
